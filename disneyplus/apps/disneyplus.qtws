@@ -1,5 +1,5 @@
 {
-        "name": "Disney+",
+        "name": "disneyplus",
         "scope": ["disneyplus.com"],
         "plugins": [
             { "name": "Multimedia" }
